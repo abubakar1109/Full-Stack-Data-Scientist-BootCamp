@@ -1,1 +1,1 @@
-# Full-Stack-Data-Scientist-BootCamp
+# Full Stack Data Scientist BootCamp
